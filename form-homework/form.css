@@ -1,0 +1,21 @@
+body {
+  background-color: #181a1b;
+}
+
+input {
+  background-color: black;
+  color: #757575;
+  font-weight: bold;
+}
+
+label {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+textarea {
+  resize: none;
+  background-color: black;
+  color: red;
+  font-weight: bold;
+}
